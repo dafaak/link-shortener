@@ -1,6 +1,6 @@
-# ghst.tech
+# shrt.ghst.tech
 
-ghst.tech es un acortador de enlaces minimalista y de alto rendimiento, diseñado para ofrecer analíticas limpias y en tiempo real sin el ruido generado por bots o crawlers.
+shrt.ghst.tech es un acortador de enlaces minimalista y de alto rendimiento, diseñado para ofrecer analíticas limpias y en tiempo real sin el ruido generado por bots o crawlers.
 
 ## Repositorios
 
